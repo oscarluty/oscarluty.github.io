@@ -103,7 +103,6 @@ body {
 
 .sidebar ul li {
     margin-bottom: 10px;
-    tex
 }
 
 .sidebar ul li a {
@@ -131,7 +130,7 @@ body {
 
 .container {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0 0;
     padding: 0 20px;
 
 }
